@@ -1,4 +1,3 @@
-# api/schemas.py
 from ninja import Schema
 from decimal import Decimal
 from datetime import date
